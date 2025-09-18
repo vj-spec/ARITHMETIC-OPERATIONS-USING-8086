@@ -66,7 +66,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="637" height="397" alt="indm_add" src="https://github.com/user-attachments/assets/dbc1c0d8-3c8e-4466-b91b-cd6b81e1f69e" />
+<img width="637" height="432" alt="indm_add" src="https://github.com/user-attachments/assets/4aea6ac1-b2f6-44b3-8de9-cc8992f277a7" />
+
 
 
 
