@@ -57,7 +57,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000 = 05           |       2004 = 1B          |
+|     2001 = 12           |       2005 = 27          |
+|     2002 = 16           |
+|     2003 = 15           |
 
 #### Manual Calculations
 
@@ -68,7 +71,6 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="637" height="431" alt="indm_add" src="https://github.com/user-attachments/assets/c498ecaa-1d40-4668-9be3-9241e4c2688f" />
-
 
 
 
