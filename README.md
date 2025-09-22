@@ -116,7 +116,11 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000 = 72           |       2004 = EF          |
+|     2001 = 64           |       2005 = OB          |
+|     2002 = 83           |
+|     2003 = 58           |
+
 
 #### Manual Calculations
 
